@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E3 Performing WODs Technical Essay"
+title: "E3: Performing WODs Technical Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-23
 published: true
@@ -17,19 +17,19 @@ For more information please refer to this page: <a href="https://dport96.github.
 
 <b>BrowserHistory6:</b>
   <br>
-(1 attempt, 20:00 – Av)
+(1 attempt, 20:00min – Av)
   <br>
 For this WOD I once again read the assignment’s instructions quite thoroughly before I started. I was fairly confident in what I already knew and how I could utilize it in this WOD. Overall, the instructions were quite straight forward so I didn’t really have to research the concepts too much before I started. I found the gif in the instructions to be quite useful because I could continually save my code and refresh my browser to make sure it looked like the gif throughout the entire time I was filming. Whilst coding I found that repeating the skills, copying and pasting, and switching between html files was a bit lengthily and repetitive (I think that I could have switched around better by utilizing more shortcuts). I do believe I referenced the instructional video once or twice to get some assistance but other than that it was pretty smooth sailing for this WOD. I think in the future I will prepare more before starting the assignment by search skills up on W3Schools. 
 
 <b>SmartPhoneProducts1 with Variables:</b>
   <br>
-(1 attempt, 8:30 – Rx)
+(1 attempt, 8:30min – Rx)
   <br>
 This WOD was pretty straight forward when reading the instructions as well as performing the actual assignment. I was able to implement the skills I had already learned in class and going through the exercise was smooth because of it. I don’t remember running into any hiccups whilst completing this WOD. The only thing that slowed me down was reading the instructions and determining what I was supposed to do. For this WOD I didn’t have to research any components on W3schools so I only skimmed the instructions before starting the assignment. I’m sure that if I had read the instructions more thoroughly I would have performed the WOD faster. 
 
 <b>Invoice1:</b>
   <br>
-(2 attempts, 25:30 – Av)
+(2 attempts, 25:30min – Av)
   <br>
 I found this WOD relatively difficult but overall, very satisfying. As usual I decided to read the instructions of this WOD very thoroughly before I started any coding at all. If I didn’t understand something in the instructions, I looked the concept up on W3Schools first, read the articles associated with it, clicked through a few examples, and took notes. I really made sure that I understood the code (as much as I thought I needed to) before I even attempted to try the WOD. In my first attempt of this WOD I ended up coming across some issues in regard to referencing JS variables in my HTML code utilizing document.write and ${}. A lot of my coworkers are quite adept with coding languages, and I happened to be completing this WOD in my office so when I came across an issue with calling upon my variables I asked them for assistance and they, quite skillfully, prompted me with questions and hints so that I eventually understood how to write my code properly. With this WOD I refrained from referencing the instructional video until I though my end results were adequate because I didn’t want the answer just handed to me. I think that next time I will try to research EVERYTHING in the instructions as thoroughly as possible before I start my coding. 
 
