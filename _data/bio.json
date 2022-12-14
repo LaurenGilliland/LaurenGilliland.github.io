@@ -1,0 +1,70 @@
+{
+  "basics": {
+    "name": "Lauren Gilliland",
+    "label": "Student",
+    "picture": "https://github.com/LaurenGilliland.png",
+    "email": "Lh24@hawaii.edu",
+    "phone": "808-753-5231",
+    "website": "https://LaurenGilliland.github.io",
+    "summary": "I am studying for a B.S. in Marketing and Management Information Systems at the University of Hawaii. I expect to graduate in Summer, 2023.",
+    "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "LaurenGilliland", "url": "http://github.com/LaurenGilliland" },
+      { "network": "linkedin", "username": "Lauren Gilliland", "url": "www.linkedin.com/in/LaurenGilliland2022" }
+    ]
+  },
+  "interests": [
+    { "name": "Hiking" },
+    { "name": "Traveling" },
+    { "name": "Being a Foodie" },
+    { "name": "Podcasts" },
+    { "name": "Crafting" }
+  ],
+  "skills": [
+    {
+      "name": "Teaching and some Coding",
+      "keywords": [ "html", "Microsoft Office", "ICS101" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS","Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Marketing and MIS (expected Summer, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-24",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa ICS Department",
+      "position": "ICS101 TA",
+      "website": "",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "summary": "Teaches a lab section of ICS101",
+      "highlights": [
+        "Teach, support, and guide students through the lab portion of ICS101",
+        "Knowledge of components and skills associated with ICS101"
+      ]
+    },
+    {
+      "company": "Tamura's",
+      "position": "Poke Clerk",
+      "website": "https://www.tamurasfinewine.com",
+      "startDate": "2021-05-01",
+      "endDate": "2022-01-03",
+      "summary": "",
+      "highlights": [
+        "Made and served poke",
+        "Practiced customer service daily"
+      ]
+    }
+  ]
+}
